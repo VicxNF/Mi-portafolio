@@ -28,10 +28,9 @@ export default function About() {
           <Image
             src="/profile-example.jpg"
             alt="Foto de perfil"
-            width={180}
-            height={180}
+            width={320}
+            height={320}
             style={{
-              borderRadius: '50%',
               objectFit: 'cover',
               boxShadow: '0 2px 12px rgba(0,0,0,0.10)',
               border: '4px solid #fff',

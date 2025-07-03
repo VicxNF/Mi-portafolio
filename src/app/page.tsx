@@ -20,7 +20,7 @@ export default function Home() {
           Victor Manuel Navarro Fermín
         </h1>
         <h2 style={{ fontSize: '1.5rem', color: '#21e6c1', marginBottom: '1.5rem', textAlign: 'left' }}>
-          Ingeniero en Computación | Desarrollador Web Full Stack
+          Ingeniero Informatico | Desarrollador Web Full Stack
         </h2>
         <p style={{ fontSize: '1.1rem', color: '#e0e0e0', marginBottom: '2rem', textAlign: 'left' }}>
           Apasionado por la tecnología y el desarrollo de soluciones innovadoras. Experiencia en desarrollo web, aplicaciones y trabajo en equipo.
@@ -33,11 +33,8 @@ export default function Home() {
           <a href="mailto:victor.navarro.fermin@gmail.com" title="Correo">
             <Image src="/email.svg" alt="Correo" width={28} height={28} />
           </a>
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub">
+          <a href="https://github.com/VicxNF/" target="_blank" rel="noopener noreferrer" title="GitHub">
             <Image src="/github.svg" alt="GitHub" width={28} height={28} />
-          </a>
-          <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" title="Twitter">
-            <Image src="/twitter.svg" alt="Twitter" width={28} height={28} />
           </a>
           {/* Puedes agregar más iconos aquí */}
         </div>
